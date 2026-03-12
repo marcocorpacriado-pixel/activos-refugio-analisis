@@ -1,0 +1,8 @@
+
+.config/
+sample_data/
+*.log
+5A_petroleo_vs_oro.png
+5B_petroleo_todos_eventos.png
+evolucion_por_evento.png
+heatmap_activos_refugio.png
